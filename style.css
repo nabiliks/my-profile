@@ -1,0 +1,71 @@
+body {
+	background-color: #47270b;
+	color: rgb(50, 50, 50);
+ }
+
+a{
+text-decoration: none;
+color brown ;
+}
+
+h1 {
+	color: sandybrown;
+	font-family: Arial;
+	font-size: 40px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+
+#leader {
+	border: 5px solid burlywood;
+}
+
+image {
+	width: 5px
+}
+
+
+
+h2 {
+	font-family: "Arial", lukasz dsiedzic;
+	font-size:30px;
+}
+
+body {
+	font-size: 19px;
+	font-family: monospace;
+	font-weight: 500;
+	line-height: 1.8
+}
+
+.card {
+	text-align: center;
+background-color: white;
+padding: 30px;
+margin: 40px;
+box-shadow: 0 10px 10px;
+
+}
+
+
+.container {
+	width: 1300px;
+	margin: 40px auto;
+
+	background-color: black;
+}
+
+
+
+@media (max-width: 760px) {
+.container {
+	width: 600px
+     }
+ }
+
+
+
+
